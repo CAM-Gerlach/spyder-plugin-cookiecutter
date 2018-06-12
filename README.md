@@ -1,31 +1,39 @@
 # Spyder Plugin Cookiecutter
 
 ## Project details
-[![Join the chat at https://gitter.im/spyder-ide/public](https://badges.gitter.im/spyder-ide/spyder.svg)](https://gitter.im/spyder-ide/public)
 [![OpenCollective Backers](https://opencollective.com/spyder/backers/badge.svg?color=blue)](#backers)
 [![OpenCollective Sponsors](https://opencollective.com/spyder/sponsors/badge.svg?color=blue)](#sponsors)
+[![Join the chat at https://gitter.im/spyder-ide/public](https://badges.gitter.im/spyder-ide/spyder.svg)](https://gitter.im/spyder-ide/public)
 
 ## Build status
 [![CircleCI](https://circleci.com/gh/spyder-ide/spyder-plugin-cookiecutter.svg?style=svg)](https://circleci.com/gh/spyder-ide/spyder-plugin-cookiecutter)
 
 ----
 
-## Important Announcement: Spyder is unfunded!
+## Plugin development paused until Spyder 4 release
 
-Since mid November/2017, [Anaconda, Inc](https://www.anaconda.com/) has
-stopped funding Spyder development, after doing it for the past 18
-months. Because of that, development will focus from now on maintaining
-Spyder 3 at a much slower pace than before.
+Currently, work on official Spyder plugins is paused to focus our limited
+resources on the development and release of Spyder 4, the next generation
+of the Scientific Python Development Environment. Thanks to your continuing
+support, we are on track for the final release of Spyder 4 in early 2019
+with many highly anticipated features, including exposing a new public API for
+external plugins, to make them easier to develop and more powerful.
+Once that happens, active plugin development will resume, to add new features
+and fix outstanding bugs. However, organizations or the community are welcome
+to offer funding to continue development sooner; if so, please [contact us](
+mailto:ccordoba12@gmail.com)!
 
-If you want to contribute to maintain Spyder, please consider donating at
+Spyder development is made possible by contributions from our global user
+community, along with organizations like [NumFOCUS](
+https://www.numfocus.org) and [Quansight](https://www.quansight.com).
+There are numerous [ways you can help](
+https://github.com/spyder-ide/spyder/wiki/Contributing-to-Spyder),
+many of which don't require any programming. If you'd like to [donate](
+https://opencollective.com/spyder/donate) to help fund further improvements,
+check us out on [OpenCollective](https://opencollective.com/spyder).
 
-https://opencollective.com/spyder
-
-We appreciate all the help you can provide us and can't thank you enough for
-supporting the work of Spyder devs and Spyder development.
-
-If you want to know more about this, please read this
-[page](https://github.com/spyder-ide/spyder/wiki/Anaconda-stopped-funding-Spyder).
+Thanks for all you do to make the Spyder project thrive! [More details](
+https://github.com/spyder-ide/spyder/wiki/Current-Funding-and-Development-Status)
 
 ----
 
