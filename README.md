@@ -1,12 +1,16 @@
 # Spyder Plugin Cookiecutter
 
-## Project details
-[![OpenCollective Backers](https://opencollective.com/spyder/backers/badge.svg?color=blue)](#backers)
-[![OpenCollective Sponsors](https://opencollective.com/spyder/sponsors/badge.svg?color=blue)](#sponsors)
-[![Join the chat at https://gitter.im/spyder-ide/public](https://badges.gitter.im/spyder-ide/spyder.svg)](https://gitter.im/spyder-ide/public)
+[![license](https://img.shields.io/pypi/l/spyder-plugin-cookiecutter.svg)](./LICENSE.txt)
+[![pypi version](https://img.shields.io/pypi/v/spyder-plugin-cookiecutter.svg)](https://pypi.org/project/spyder-plugin-cookiecutter/)
+[![conda version](https://img.shields.io/conda/v/spyder-ide/spyder-plugin-cookiecutter.svg)](https://www.anaconda.com/download/)
+[![download count](https://img.shields.io/conda/d/spyder-ide/spyder-plugin-cookiecutter.svg)](https://www.anaconda.com/download/)
+[![OpenCollective Backers](
+https://opencollective.com/spyder/backers/badge.svg?color=blue)](#backers)
+[![Join the chat at https://gitter.im/spyder-ide/public](https://badges.gitter.im/spyder-ide/spyder.svg)](
+https://gitter.im/spyder-ide/public)
 
-## Build status
-[![CircleCI](https://circleci.com/gh/spyder-ide/spyder-plugin-cookiecutter.svg?style=svg)](https://circleci.com/gh/spyder-ide/spyder-plugin-cookiecutter)
+[![PyPI status](https://img.shields.io/pypi/status/spyder-plugin-cookiecutter.svg)](https://github.com/spyder-ide/spyder-plugin-cookiecutter)
+[![CircleCI](https://circleci.com/gh/spyder-ide/spyder-plugin-cookiecutter/tree/master.svg?style=shield)](https://circleci.com/gh/spyder-ide/spyder-plugin-cookiecutter/tree/master)
 
 ----
 
